@@ -1,0 +1,48 @@
+.rot {
+  transform: rotate(-90deg);
+  font-size: smaller;
+  width: 200px;
+}
+.left {
+  height: 450px;
+}
+.base {
+  top: 0px;
+  left: 0px;
+}
+
+.ico {
+  top: 10px;
+  right: 10px;
+}
+.base1 {
+
+  top: 0%;
+  left: 0%;
+}
+.icon {
+ 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  height: 100px;
+}
+.grey {
+  color: rgb(118, 119, 119) !important;
+}
+.sec1 {
+  background-color: #f5e2d4;
+}
+@media (max-width: 991px) {
+  .rot {
+    transform: rotate(0);
+    width: 100%;
+  }
+  .left {
+    height: 100%;
+  }
+  .icon {
+   height: 50px;
+}
+
+}
