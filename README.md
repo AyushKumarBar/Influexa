@@ -1,5 +1,5 @@
 # Influexa
-# plantify
+
 <h1>Frontend Website Readme</h1>
 <h1><a href="https://ankushbar02.github.io/Influexa/">Visit Site</a></h1>
 <h2>Table of Contents</h2>
